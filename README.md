@@ -1,6 +1,6 @@
 # command-line-notes-app
 
-Built with Yargs
+Built with [Yargs](https://www.npmjs.com/package/yargs)
 ![Yargs Logo](yargs-logo.png)
 
 I created this application to test out creating command-line applications.
