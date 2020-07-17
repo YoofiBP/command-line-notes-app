@@ -16,10 +16,10 @@ node app.js {operation} {option} {content}
 
 ## Operations
 
-- add
-- remove
-- list
-- read
+- add: Add a new list to the collection
+- remove: Remove a list from the collection
+- list: List all lists in the collection
+- read: Read body of note based on title
 
 ## options
 
