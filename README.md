@@ -23,9 +23,8 @@ node app.js {operation} {option} {content}
 
 ## options
 
-t - title
-
-b - body
+- t - title
+- b - body
 
 ### Examples
 
