@@ -18,7 +18,7 @@ yargs.command({
     body: {
       alias: "b",
       describe: "Note Body",
-      demandOption: true,
+      demandOption: true
       type: "string",
     },
   },
