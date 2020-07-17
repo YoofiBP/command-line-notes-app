@@ -2,6 +2,7 @@
 
 Built with Yargs
 ![Yargs Logo](yargs-logo.png)
+
 I created this application to test out creating command-line applications.
 
 Its a simple notes app that operates through the terminal with Create, Read, and Delete operations.
