@@ -35,3 +35,5 @@ node app.js {operation} {option} {content}
 `node app.js list`
 
 `node app.js read -t Sample\ Title`
+
+> Note: You need to add escape characters to include spaces
