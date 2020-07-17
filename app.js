@@ -1,5 +1,3 @@
-const chalk = require("chalk");
-const validator = require("validator");
 const yargs = require("yargs");
 const notesFunctions = require("./notes");
 
